@@ -10,6 +10,7 @@
 
 * 이찬우님의 텐서 플로우 강의 : 기초  잡기 좋음 https://www.youtube.com/channel/UCRyIQSBvSybbaNY_JCyg_vA
 * TensorFlow Data Input (Part 1): Placeholders, Protobufs & Queue : 플레이스홀더,  특히 큐에 대해 잘 설명해놓음 https://indico.io/blog/tensorflow-data-inputs-part1-placeholders-protobufs-queues/
+* Awesome Tensorflow (텐서플로우 링크 모음) : https://github.com/jtoy/awesome-tensorflow#github-projects
 
 ## Reference model
 
