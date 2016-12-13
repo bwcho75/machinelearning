@@ -12,6 +12,9 @@
 * TensorFlow Data Input (Part 1): Placeholders, Protobufs & Queue : 플레이스홀더,  특히 큐에 대해 잘 설명해놓음 https://indico.io/blog/tensorflow-data-inputs-part1-placeholders-protobufs-queues/
 * Awesome Tensorflow (텐서플로우 링크 모음) : https://github.com/jtoy/awesome-tensorflow#github-projects
 
+## Example
+
+* Open CV 기반 얼굴 인식 : https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/basic_opencv2.ipynb
 ## Reference model
 
 * 딥러닝 레퍼런스 모델 Slim - https://github.com/tensorflow/models/tree/master/slim (패라미터만 튜닝해서 재사용이 가능하고, 각종 유명 모델들을 다 구현해놨음)
