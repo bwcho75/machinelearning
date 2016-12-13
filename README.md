@@ -1,11 +1,15 @@
 # machinelearning
 
-## Tutorials
+## Deep learning Tutorials
 
 * 김성훈 교수님의 모두를 위한 딥러닝 http://hunkim.github.io/ml/
-* 이찬우님의 텐서 플로우 강의 https://www.youtube.com/channel/UCRyIQSBvSybbaNY_JCyg_vA
 * A Beginner's Guide To Understanding Convolutional Neural Networks (CNN에 대해서 쉽게 잘 설명한 글/영어) https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
 * Google Developers의 Machine Learning Recipes - https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
+
+## Tensorflow
+
+* 이찬우님의 텐서 플로우 강의 : 기초  잡기 좋음 https://www.youtube.com/channel/UCRyIQSBvSybbaNY_JCyg_vA
+* TensorFlow Data Input (Part 1): Placeholders, Protobufs & Queue : 플레이스홀더,  특히 큐에 대해 잘 설명해놓음 https://indico.io/blog/tensorflow-data-inputs-part1-placeholders-protobufs-queues/
 
 ## Reference model
 
