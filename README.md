@@ -1,5 +1,8 @@
 # machinelearning
 
+## Machine learning general (not deep learning)
+
+* product recommendation example https://cloud.google.com/solutions/recommendations-using-machine-learning-on-compute-engine
 ## Deep learning Tutorials
 
 * 김성훈 교수님의 모두를 위한 딥러닝 http://hunkim.github.io/ml/
