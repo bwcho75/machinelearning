@@ -3,6 +3,7 @@
 ## Machine learning general (not deep learning)
 
 * product recommendation example https://cloud.google.com/solutions/recommendations-using-machine-learning-on-compute-engine
+
 ## Deep learning Tutorials
 
 * 김성훈 교수님의 모두를 위한 딥러닝 http://hunkim.github.io/ml/
@@ -16,6 +17,7 @@
 * TensorFlow Data Input (Part 1): Placeholders, Protobufs & Queue : 플레이스홀더,  특히 큐에 대해 잘 설명해놓음 https://indico.io/blog/tensorflow-data-inputs-part1-placeholders-protobufs-queues/
 * Awesome Tensorflow (텐서플로우 링크 모음) : https://github.com/jtoy/awesome-tensorflow#github-projects
 * Strata 텐서플로우 슬라이드 정리가무척잘되어 있음 [Strata Singapore.pdf]
+* 텐서플로우를 abstraction 해놓은 라이브러리 https://keras.io/
 
 ## Example
 
