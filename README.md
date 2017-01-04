@@ -24,6 +24,11 @@
 ## Example
 
 * Open CV 기반 얼굴 인식 : https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/basic_opencv2.ipynb
+
 ## Reference model
 
 * 딥러닝 레퍼런스 모델 Slim - https://github.com/tensorflow/models/tree/master/slim (패라미터만 튜닝해서 재사용이 가능하고, 각종 유명 모델들을 다 구현해놨음)
+
+## Sample Data
+
+* 얼굴 인식용 샘플 데이타(PubFig) - http://www.cs.columbia.edu/CAVE/databases/pubfig/
