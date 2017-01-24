@@ -12,6 +12,7 @@
 * Google Developers의 Machine Learning Recipes (동영상/자막있음) - https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
 * 쉽게어쓴 딥러닝의 모든것 http://t-robotics.blogspot.kr/2015/05/deep-learning.html?m=1#.WE9bZ7KLSiM 
 * 뉴럴네트워크와 CNN,MNIST에 대해서 자세하게 설명해놓은 글 http://neuralnetworksanddeeplearning.com/chap1.html
+* Google https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
 
 ## Tensorflow
 
