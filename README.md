@@ -22,6 +22,7 @@
 * Strata 텐서플로우 슬라이드 정리가무척잘되어 있음 [Strata Singapore.pdf]
 * 텐서플로우를 abstraction 해놓은 라이브러리 https://keras.io/
 * 텐서플로우 아티클(소개에서부터 선형회귀,클러스터링,MNIST,Serving 까지 정리 잘해놓음, 책쓸때 참고하면 좋을듯) - http://jorditorres.org/first-contact-with-tensorflow/
+* 텐서플로우 물체 인식 (Object Detection) Library - https://github.com/TensorBox/TensorBox
 
 ## Example
 
