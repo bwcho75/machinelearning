@@ -25,6 +25,7 @@
 * 텐서플로우 물체 인식 (Object Detection) Library - https://github.com/TensorBox/TensorBox
 * Keras resource https://github.com/fchollet/keras-resources
 * Pytorch텐서플로우 예제 코드 https://github.com/yunjey/pytorch-tutorial (짧고 정리 잘되어있음, CNN,RNN,Linear,etc)
+* CloudML Sample code - https://github.com/GoogleCloudPlatform/cloudml-samples CloudML 사용 코드 및 Hypertune 기능도 같이 나와 있음
 
 ## Example
 
