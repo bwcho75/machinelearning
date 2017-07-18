@@ -26,6 +26,8 @@
 * Keras resource https://github.com/fchollet/keras-resources
 * Pytorch텐서플로우 예제 코드 https://github.com/yunjey/pytorch-tutorial (짧고 정리 잘되어있음, CNN,RNN,Linear,etc)
 * CloudML Sample code - https://github.com/GoogleCloudPlatform/cloudml-samples CloudML 사용 코드 및 Hypertune 기능도 같이 나와 있음
+* Tensorflow framework comparison http://blog.mdda.net/ai/2016/12/10/layers-on-top-of-tensorflow-review
+* tf.learn based End2End ML pipeline (with BQ, dataflow + cloud ML) https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/blogs/babyweight/babyweight.ipynb
 
 ## Example
 
