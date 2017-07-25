@@ -28,6 +28,8 @@
 * CloudML Sample code - https://github.com/GoogleCloudPlatform/cloudml-samples CloudML 사용 코드 및 Hypertune 기능도 같이 나와 있음
 * Tensorflow framework comparison http://blog.mdda.net/ai/2016/12/10/layers-on-top-of-tensorflow-review
 * tf.learn based End2End ML pipeline (with BQ, dataflow + cloud ML) https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/blogs/babyweight/babyweight.ipynb
+* Predefined model for image recog (VGG,Inception etc) https://github.com/tensorflow/models/tree/master/slim#pre-trained-models
+* Tensorflow workshop https://github.com/tensorflow/models/tree/master/slim#pre-trained-models
 
 ## Example
 
