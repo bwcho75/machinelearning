@@ -40,6 +40,10 @@
 * 딥러닝 레퍼런스 모델 Slim - https://github.com/tensorflow/models/tree/master/slim (패라미터만 튜닝해서 재사용이 가능하고, 각종 유명 모델들을 다 구현해놨음)
 
 * 이미지 인식 모델 https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.fq5u12sl 클래스에 포함되지 않은것을 찾아내는 기능도 있음
+
+* Chat bot : 텐서플로우로 쳇봇용 딥러닝 모델 만들기 https://blog.kovalevskyi.com/rnn-based-chatbot-for-6-hours-b847d2d92c43
+
+
 ## Sample Data
 
 * 얼굴 인식용 샘플 데이타(PubFig) - http://www.cs.columbia.edu/CAVE/databases/pubfig/
