@@ -4,6 +4,7 @@
 
 * 코세라 워싱턴 대학 강의 : Regression, Classification, Clustering, Recommendation, Deep learning 강의 (한글 자막 있음) https://www.coursera.org/learn/ml-foundations#syllabus
 * product recommendation example https://cloud.google.com/solutions/recommendations-using-machine-learning-on-compute-engine
+* 머신러닝 튜토리얼 - 텐서플로우 포함 데이타 과학 관련 튜토리얼이 무지 잘되어 있음 https://www.datacamp.com/community/tutorials/tensorflow-tutorial#gs.nZMDryY
 
 ## Deep learning Tutorials
 
