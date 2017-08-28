@@ -35,6 +35,7 @@
 ## Example
 
 * Open CV 기반 얼굴 인식 : https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/basic_opencv2.ipynb
+* 유사이미지 검색 http://douglasduhaime.com/posts/identifying-similar-images-with-tensorflow.html
 
 ## Reference model
 
